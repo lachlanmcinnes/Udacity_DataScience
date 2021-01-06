@@ -27,6 +27,7 @@ Airbnb has a vast amount of information regarding the locations, dwelling types 
 ![alt text](https://github.com/lachlanmcinnes/Udacity_DataScience/blob/master/DataScienceBlog/Images/ammenities.png?raw=true)
 
 * accuracy of price prediction based on ammenities listed in advertisement
+
 ** 10.65%
 
 * correlation heatmap 
@@ -34,4 +35,5 @@ Airbnb has a vast amount of information regarding the locations, dwelling types 
 ![alt text](https://github.com/lachlanmcinnes/Udacity_DataScience/blob/master/DataScienceBlog/Images/corr.png?raw=true)
 
 * accuracy of price prediction based on other data points other than ammenities
+
 ** 39%
