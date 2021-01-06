@@ -23,6 +23,7 @@ Airbnb has a vast amount of information regarding the locations, dwelling types 
 ## Summary of Results
 
 * percentage of ammenities listed
+
 ![alt text](https://github.com/lachlanmcinnes/Udacity_DataScience/blob/master/DataScienceBlog/Images/ammenities.png?raw=true)
 
 
