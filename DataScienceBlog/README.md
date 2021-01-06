@@ -7,6 +7,8 @@ How do we predict prices? If you are someone with an interest in seeing how much
 
 Airbnb has a vast amount of information regarding the locations, dwelling types and prices regarding their listings. As such this is the perfect starting point to see if we are able to predict home prices for short term renting.
 
+In this project we will be assessing the ability to predict the nightly prices of a property based upon the datapoints in the Boston Airbnb Dataset from Kaggle
+
 ## Files
 
 * Python3 File - Used to analyse the Data Set in order to predict nightly price based on ammenities and other data points
